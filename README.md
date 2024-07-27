@@ -34,8 +34,8 @@ This project is a complete user authentication backend using Node.js, Express, a
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/user-auth.git
-   cd user-auth
+   git clone https://github.com/ZyanHere/Zyan-Auths-users.git
+   cd user auth
    ```
 
 2. **Install Dependencies**
